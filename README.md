@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **IshanRupwate/IshanRupwate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+### Hi there 👋
 -->
 <h1 align="center">Hi 👋, I'm Ishan Rupwate</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
