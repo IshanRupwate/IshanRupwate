@@ -1,5 +1,3 @@
-
-
 <!--
 **IshanRupwate/IshanRupwate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -34,7 +32,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ishan-rupwate-5534051b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ishan-rupwate-5534051b4" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ishan-rupwate-5534051b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ishan-rupwate-5534051b4" height="30" width="40" /></a>
 <a href="https://instagram.com/ishanrupwate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ishanrupwate" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/ishan_r/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Ishan_R" height="30" width="40" /></a>
 </p>
@@ -47,4 +45,3 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishanrupwate&show_icons=true&locale=en" alt="ishanrupwate" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishanrupwate&" alt="ishanrupwate" /></p>
-
