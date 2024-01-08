@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Interactive 3D E-comm Website**
 
-- 🌱 I’m currently learning **Three.js, AngularJs**
+- 🌱 I’m currently learning **React.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/IshanRupwate](https://github.com/IshanRupwate)
 
